@@ -13,7 +13,7 @@ const MovieDetail = () => {
     }, []);
 
     return (
-        <div className="detail-container container">
+        <div className="detail-container container flex-wrap flex-md-nowrap flex-lg-nowrap">
             <div className="poster">
                 {selectedMovie.Poster === "N/A" ? (
                     <img src={defaultImage} alt={selectedMovie.Title} />
@@ -21,7 +21,7 @@ const MovieDetail = () => {
                         <img src={selectedMovie.Poster} alt={selectedMovie.Title} />
                     )}
             </div>
-            <div className="info">
+            <div className="info container ml-lg-5 pt-5 pt-lg-0">
                 <div className="field">
                     <div className="label">
                         <p className="title txt-detail">{selectedMovie.Title}</p>

@@ -20,7 +20,7 @@
   }
   
   .field {
-    margin-left: 40px;
+    /* margin-left: 40px; */
     text-align: left;
     font-size: 20px;
     margin-bottom: 20px;
@@ -42,3 +42,9 @@
     color:white;
     font-size: 25px;
   }
+
+  /* @media screen and (min-width: 480px) {
+    .field {
+      margin-left: 15px;
+    }
+  } */
