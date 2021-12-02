@@ -23,8 +23,9 @@
   justify-content: space-around;
 }
 .card .info .title {
-  font-size: 22px;
+  font-size: 18px;
   text-align: center;
+  font-weight: bold;
   color: black;
 }
 .card .info .year {

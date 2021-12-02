@@ -12,6 +12,7 @@
   
   .poster img {
     border-radius: 10px;
+    width: -webkit-fill-available;
   }
   
   .info {
