@@ -45,7 +45,7 @@ const Home = () => {
                         })}
                     </div>
                 ) : (
-                        <div className="search-warning">
+                        <div className="search-warning text-center">
                             <p>Invalid movie name! please retry another name</p>
                         </div>
                     )}
