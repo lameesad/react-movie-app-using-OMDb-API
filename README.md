@@ -1,6 +1,6 @@
 # npm-install
 
-[npm install](https://www.npmjs.org/doc/cli/npm-start.html) written in bash that propagates kill to subprocesses
+[npm install] written in bash that propagates kill to subprocesses
 
 ```
 npm install
@@ -11,7 +11,7 @@ npm install
 [npm start](https://www.npmjs.org/doc/cli/npm-start.html) written in bash that propagates kill to subprocesses
 
 ```
-npm install
+npm start
 ```
 
 
