@@ -1,6 +1,6 @@
 # npm-install
 
-[npm install] written in bash that propagates kill to subprocesses
+npm install written in bash that propagates kill to subprocesses
 
 ```
 npm install
