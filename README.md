@@ -1,3 +1,25 @@
+# npm-install
+
+[npm install](https://www.npmjs.org/doc/cli/npm-start.html) written in bash that propagates kill to subprocesses
+
+```
+npm install npm-start
+```
+
+# npm-start
+
+[npm start](https://www.npmjs.org/doc/cli/npm-start.html) written in bash that propagates kill to subprocesses
+
+```
+npm install npm-start
+```
+
+
+# Static Login using these credentials
+
+Email: lameesaboudarwish@gmail.com
+Password: movieapp
+
 # SnapShot of the Movie React App
 
 ![image](https://user-images.githubusercontent.com/61315335/144455355-05f706c3-f2a2-44fe-b136-5125b4cb0e91.png)
